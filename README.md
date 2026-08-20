@@ -1,16 +1,35 @@
-## Hi there 👋
+#   Hi, I'm Minenhle Lucas Ntuli
 
-<!--
-**Lucas-Ntuli/Lucas-Ntuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps and Cloud Security
 
-Here are some ideas to get you started:
+I'm a Software Development student transitioning from a background in Mechanical Technology education into **DevOps, Cloud Engineering, and Cloud security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a **Bachelor of Education Honours in Technology education** from **Durban University of Technology** and previously worked as a **Mechanical Technology teacher**.
+
+I'm currently studying **Software Development** while building practical skills and projects across:
+
+- Microsoft Azure
+- Terraform
+- Docker
+- GitHub Actions
+- Linux
+- Cloud Security
+- CI/CD
+
+  ## Certifications
+
+  ### GitHub Actions
+  Certified in Building and managing CI/CD workflows with GitHub Actions.
+  
+  [View my GitHub Actions certification] (https://learn.microsoft.com/api/credentials/share/en-us/MinenhleLucasNtuli-6864/F76F5F9743E5D7F3?sharingId=19AACFDEB7D2EBBB)
+
+  ## Current Project
+
+  I'm building a practical Azure DevOps and Cloud Security project using:
+
+  - Terraform
+  - Azure
+  - GitHub Actions
+  - Docker
+  - Azure security services
+  - Slack integration
