@@ -23,6 +23,14 @@ I'm currently studying **Software Development** while building practical skills 
   
   [View my GitHub Actions certification] (https://learn.microsoft.com/api/credentials/share/en-us/MinenhleLucasNtuli-6864/F76F5F9743E5D7F3?sharingId=19AACFDEB7D2EBBB)
 
+### HashiCorp Certified: Terraform Associate
+
+**HashiCorp Certified: Terraform Associate**
+
+Certified in Terraform Fundamentals, Infrastructure as Code, configuration management, and provisioning infrastructure using Hashicorp Terraform.
+
+[View my Terraform certification]()
+
   ## Current Project
 
   I'm building a practical Azure DevOps and Cloud Security project using:
