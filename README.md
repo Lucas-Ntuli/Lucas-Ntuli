@@ -23,13 +23,13 @@ I'm currently studying **Software Development** while building practical skills 
   
   [View my GitHub Actions certification] (https://learn.microsoft.com/api/credentials/share/en-us/MinenhleLucasNtuli-6864/F76F5F9743E5D7F3?sharingId=19AACFDEB7D2EBBB)
 
-### HashiCorp Certified: Terraform Associate
+### HashiCorp Certified: Terraform Associate (004)
 
-**HashiCorp Certified: Terraform Associate**
+**HashiCorp Certified: Terraform Associate (004)**
 
-Certified in Terraform Fundamentals, Infrastructure as Code, configuration management, and provisioning infrastructure using Hashicorp Terraform.
+Certified in Terraform Fundamentals, Infrastructure as Code (IaC), configuration management, and provisioning infrastructure using HashiCorp Terraform.
 
-[View my Terraform certification]()
+[View my Terraform certification] (https://www.credly.com/badges/128df212-b61e-496d-af6b-01869960f698/public_url)
 
   ## Current Project
 
