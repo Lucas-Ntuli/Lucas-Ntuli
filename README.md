@@ -33,7 +33,7 @@ Certified in Terraform Fundamentals, Infrastructure as Code (IaC), configuration
 
   ## Current Project
 
-  I'm building a practical Azure DevOps and Cloud Security project using:
+  I'm building a practical Azure DevOps and Cloud Security project called Cost Cloud Security Detector using:
 
   - Terraform
   - Azure
